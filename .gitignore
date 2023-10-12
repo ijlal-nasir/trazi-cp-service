@@ -1,0 +1,4 @@
+node_modules/
+rest.http
+package-lock.json
+*.csv
